@@ -6,3 +6,4 @@ resources:
 - openshift-logging
 - group-sync-operator
 - curator-system
+- csi-wekafsplugin
